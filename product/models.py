@@ -5,6 +5,5 @@ class Product (models.Model):
     description = models.TextField()
     quantity = models.IntegerField()
 
-git config --global user.email "rana29adel@gmail.com"
 
-kmly
+
