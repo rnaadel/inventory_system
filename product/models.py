@@ -5,5 +5,5 @@ class Product (models.Model):
     description = models.TextField()
     quantity = models.IntegerField()
 
-
+ 
 
